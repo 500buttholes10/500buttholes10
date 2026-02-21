@@ -1,5 +1,7 @@
 
+  <p align="left"
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qstgesmrlvatph7tuaobdvk6i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center"
 <p><img src="https://file.garden/ZhFz5XtGggibKC4O/Untitled508_20251224231048.png" height="300" alt="0c29f0f8f4122e8379a4158298b7fa49"></p>
@@ -27,3 +29,4 @@
  <p align="center"
    
  ‎‎٫٫  i love sourcemates! mor sys info [here!](https://dash.pluralkit.me/profile/s/wzpfjr?tab=members&view=list)
+
